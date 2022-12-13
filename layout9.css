@@ -1,0 +1,30 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+#wrap{
+    width: 600px;
+    height: 600px;
+    border: 1px solid red;
+}
+header, footer{
+    width: 390px;
+    height: 190px;
+    background: yellow;
+    float: left;
+}
+section{
+    width: 390px;
+    height: 390px;
+    background: green;
+    float: left;
+}
+nav{
+    width: 190px;
+    height: 600px;
+    background: #999;
+    float: right;
+}
+footer{
+    clear: both;
+}
